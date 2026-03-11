@@ -1,12 +1,12 @@
-import React from 'react'
+// import React from 'react'
 import logo from "../../assets/logo.png"
 import icon from "../../assets/hamburger.png"
-import About from '../../pages/About'
+// import About from '../../pages/About'
 import { Link } from 'react-router-dom'
-import Home from '../../pages/Home'
-import Menu from '../../pages/Menu'
-import Contact from '../../pages/Contact'
-import Support from '../../pages/Support'
+// import Home from '../../pages/Home'
+// import Menu from '../../pages/Menu'
+// import Contact from '../../pages/Contact'
+// import Support from '../../pages/Support'
 
 function Nav() {
   return (

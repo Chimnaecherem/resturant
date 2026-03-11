@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import Boxes from '../components/body/Boxes'
 
 function Menu() {

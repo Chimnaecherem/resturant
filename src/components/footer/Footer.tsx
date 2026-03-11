@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import call from "../../assets/CALL ICON.png"
 import tik from "../../assets/tik.jpg"
 import insta from "../../assets/insta.jpg"

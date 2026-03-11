@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import pickup from "../../assets/pickup.png"
 import delivery from "../../assets/delivery.png"
 // import hot from "../../assets/hot shawarma.jpg"
@@ -7,7 +7,7 @@ import delivery from "../../assets/delivery.png"
 // import wine from "../../assets/wine.jpg"
 // import shawarma from "../../assets/sha.jpg"
 // import sugar from "../../assets/sugar dognut.jpg"
-import Boxes from './Boxes'
+// import Boxes from './Boxes'
 
 
 

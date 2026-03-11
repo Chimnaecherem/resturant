@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 // import { useState } from 'react'
 import Food from '../components/body/About/Food';
 import Bar from '../components/body/About/Bar';

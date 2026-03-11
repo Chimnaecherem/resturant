@@ -1,19 +1,19 @@
-import React from "react";
+// import React from "react";
 import {Autoplay} from "swiper/modules"
 import {Swiper, SwiperSlide} from "swiper/react";
-import "swiper/css"
+// import "swiper/css"
 
 import pics from "../../assets/replace.jpg"
 import bar from "../../assets/bar.jpg"
 import hot from "../../assets/hot shawarma.jpg"
-import Food from "./About/Food";
-import Bar from "./About/Bar";
-import Pastries from "./About/Pastries";
-import barr from "./../../assets/barr.jpg";
+// import Food from "./About/Food";
+// import Bar from "./About/Bar";
+// import Pastries from "./About/Pastries";
+// import barr from "./../../assets/barr.jpg";
 import bigg from "./../../assets/web pics.png";
 import handfood from "./../../assets/handrice2.png";
 import tomato from "./../../assets/tomato.png";
-import onion from "./../../assets/onion.png";
+// import onion from "./../../assets/onion.png";
 
 function Slide() {
   return (
