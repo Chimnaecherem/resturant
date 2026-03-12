@@ -18,7 +18,7 @@ function Body() {
         {/* working div */}
 
         <div >
-        <p className="text-center text-red-600 font-bold text-3xl md:text-5xl">How would you like to Receive your Order??</p>
+        <p className="text-center text-red-600 font-bold text-3xl hover:text-orange-400 md:text-5xl">How would you like to Receive your Order??</p>
 
 {/* pick up */}
 <div>
