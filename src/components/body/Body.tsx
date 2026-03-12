@@ -1,6 +1,6 @@
 // import React from 'react'
 import pickup from "../../assets/PICKUP.png"
-import delivery from "../../assets/delivery.png"
+import delivery from "../../assets/DELIVERY.png"
 // import hot from "../../assets/hot shawarma.jpg"
 // import jellof from "../../assets/jellof rice.jpg"
 // import pastries from "../../assets/meat.pie.png"
