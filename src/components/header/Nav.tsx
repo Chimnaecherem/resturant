@@ -16,8 +16,9 @@ function Nav() {
 
 
         <div>
-           <Link to="/"></Link>
+           <Link to="/">
           <img src={logo} alt="logo" className='h-12 m-4' />
+           </Link>
         </div>
         {/* hamboger for mobile */}
 
