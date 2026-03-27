@@ -93,10 +93,10 @@ function Boxes() {
         <p className='text-2xl md:text-5xl text-center font-bold text-red-600 my-12'>Pastries</p>
 
         {/* images */}
-        <div className='grid grid-cols-2 md:grid-cols-4  space-y-8 justify-items-center'>
+        <div className='grid grid-cols-2 space-x-6 px-6 md:grid-cols-4  space-y-8 justify-items-center'>
           {pastriesItems.map((photos) => (
             <div className='relative '>
-              <img src={photos.photo} alt="" className='bg-orange-200 w-36 h-36 rounded-2xl shadow-xl shadow-orange-300 border-4 border-red-700   ' />
+              <img src={photos.photo} alt="" className='bg-orange-200 h-48 md:h-96 w-120 rounded-2xl shadow-xl shadow-orange-300 border-4 border-red-700 hover:scale-102 transition-all duration-300 ease-in-out  ' />
 
               <p className='font-bold text-xl  text-red-700 ml-2'>{photos.name}</p>
             </div>
@@ -115,10 +115,10 @@ function Boxes() {
         <p className='text-2xl md:text-5xl text-center font-bold text-red-600 my-12'>Bar</p>
 
         {/* images */}
-        <div className='grid grid-cols-2 md:grid-cols-4  space-y-8 justify-items-center'>
+        <div className='grid grid-cols-2 space-x-5 px-6 md:grid-cols-4  space-y-8 justify-items-center'>
           {barItems.map((photos) => (
             <div className='relative '>
-              <img src={photos.photo} alt="" className='bg-orange-200 w-36 h-36 rounded-2xl shadow-xl shadow-orange-300 border-4 border-red-700   ' />
+              <img src={photos.photo} alt="" className='bg-orange-200 h-48 md:h-96 w-full  rounded-2xl shadow-xl shadow-orange-300 border-4 border-red-700 hover:scale-102 transition-all duration-300 ease-in-out ' />
 
               <p className='font-bold text-xl  text-red-700 ml-2'>{photos.name}</p>
             </div>
