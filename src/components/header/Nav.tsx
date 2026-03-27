@@ -16,6 +16,7 @@ function Nav() {
 
 
         <div>
+           <Link to="/"></Link>
           <img src={logo} alt="logo" className='h-12 m-4' />
         </div>
         {/* hamboger for mobile */}
@@ -24,9 +25,10 @@ function Nav() {
         <details className="dropdown md:hidden">
           <summary className="btn m-1 bg-transparent border-0 shadow-none"><img src={icon} alt="" className='m-4 h-6 mt-8  ' /></summary>
           <ul className="menu dropdown-content  bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm ">
+            <li ><Link to="/home">Home</Link></li>
             <li><Link to="/about">About</Link></li>
             <li><Link to="/menu">Menu</Link></li>
-            <li><Link to="/contact">Contactt</Link></li>
+            <li><Link to="/contact">Contact</Link></li>
             <li><Link to="/support">Support</Link></li>
           </ul>
         </details>

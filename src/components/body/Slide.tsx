@@ -1,7 +1,8 @@
 // import React from "react";
 import {Autoplay} from "swiper/modules"
 import {Swiper, SwiperSlide} from "swiper/react";
-// import "swiper/css"
+import "swiper/css";
+import "swiper/css/navigation";
 
 import pics from "../../assets/replace.jpg"
 import bar from "../../assets/bar.jpg"
